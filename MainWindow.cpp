@@ -1,11 +1,3 @@
 #include "MainWindow.h"
 
-MainWindow::MainWindow(QWidget *parent)
-	: QMainWindow(parent)
-{
-}
-
-MainWindow::~MainWindow()
-{
-
-}
+//For debug, all code will written in Head File (MainWindow.h)

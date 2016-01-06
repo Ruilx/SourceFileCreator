@@ -1,3 +1,8 @@
+/* ***** Source File Creator *****
+ * Made By Ruilx @ GT-Soft Studio
+ *
+ */
+
 #include "MainWindow.h"
 #include <QApplication>
 
